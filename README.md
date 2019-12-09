@@ -1,0 +1,2 @@
+# API-REST-JS-bikes-database
+Le but de l'exercice et de développer une API REST permettant d'effectuer un CRUD (create, read one, read all, update one, delete one) sur une entité vélo. Un fichier JSON contient une liste de vélos. On se sert de ce fichier comme d'une base de données (pas de SGBD externe). On peut lire et écrire dans ce fichier directement. L'exercice est réalisé en utilisant NodeJS avec le framework express.
